@@ -1,0 +1,357 @@
+1	﻿Кто	﻿кто	PROPN	_	PROPN	0	ROOT	_	_
+2	они	они	PRON	_	PRON	1	nsubj	_	_
+3	?	?	PUNCT	_	PUNCT	1	punct	_	_
+
+
+1	Маленький	маленький	ADJ	_	ADJ	2	amod	_	_
+2	город	город	NOUN	_	NOUN	5	nsubj	_	_
+3	с	с	ADP	_	ADP	4	case	_	_
+4	минаретами	минарет	NOUN	_	NOUN	2	nmod	_	_
+5	пролетает	пролетать	VERB	_	VERB	0	ROOT	_	_
+6	мимо	мимо	ADV	_	ADV	5	advmod	_	_
+7	.	.	PUNCT	_	PUNCT	5	punct	_	_
+
+
+1	Я	я	PRON	_	PRON	3	nsubj	_	_
+2	был	быть	AUX	_	AUX	3	cop	_	_
+3	мальчиком	мальчик	NOUN	_	NOUN	0	ROOT	_	_
+4	с	с	ADP	_	ADP	6	case	_	_
+5	грязными	грязный	ADJ	_	ADJ	6	amod	_	_
+6	ботинками	ботинок	NOUN	_	NOUN	3	nmod	_	_
+7	.	.	PUNCT	_	PUNCT	3	punct	_	_
+
+
+1	Дорожная	дорожный	ADJ	_	ADJ	2	amod	_	_
+2	полиция	полиция	NOUN	_	NOUN	6	nsubj	_	_
+3	Шэньчжэне	шэньчжэне	PROPN	_	PROPN	2	nmod	_	_
+4	и	и	CCONJ	_	CCONJ	5	advmod	_	_
+5	раньше	ранний	ADV	_	ADV	6	advmod	_	_
+6	выбирала	выбирать	VERB	_	VERB	0	ROOT	_	_
+7	нетрадиционные	нетрадиционный	ADJ	_	ADJ	8	amod	_	_
+8	наказания	наказание	NOUN	_	NOUN	6	obj	_	_
+9	.	.	PUNCT	_	PUNCT	6	punct	_	_
+
+
+1	Наука	наука	NOUN	_	NOUN	6	nsubj	_	_
+2	,	,	PUNCT	_	PUNCT	3	punct	_	_
+3	изучающая	изучать	VERB	_	VERB	1	acl	_	_
+4	вулканы	вулкан	NOUN	_	NOUN	3	obj	_	_
+5	,	,	PUNCT	_	PUNCT	3	punct	_	_
+6	называется	называться	VERB	_	VERB	0	ROOT	_	_
+7	“	“	PUNCT	_	PUNCT	8	punct	_	_
+8	volcanology	volcanology	X	_	X	6	xcomp	_	_
+9	”	”	PUNCT	_	PUNCT	8	punct	_	_
+10	,	,	PUNCT	_	PUNCT	13	punct	_	_
+11	иногда	иногда	ADV	_	ADV	13	advmod	_	_
+12	она	она	PRON	_	PRON	13	nsubj:pass	_	_
+13	записана	записать	VERB	_	VERB	6	conj	_	_
+14	как	как	SCONJ	_	SCONJ	16	case	_	_
+15	“	“	PUNCT	_	PUNCT	16	punct	_	_
+16	vulcanology	vulcanology	X	_	X	13	obl	_	_
+17	”	”	PUNCT	_	PUNCT	16	punct	_	_
+18	.	.	PUNCT	_	PUNCT	6	punct	_	_
+
+
+1	Это	это	PRON	_	PRON	3	nsubj:pass	_	_
+2	было	было	AUX	_	AUX	3	aux:pass	_	_
+3	произведено	произвести	VERB	_	VERB	0	ROOT	_	_
+4	прямо	прямо	ADV	_	ADV	7	advmod	_	_
+5	на	на	ADP	_	ADP	7	case	_	_
+6	Мексиканском	мексиканский	ADJ	_	ADJ	7	amod	_	_
+7	побережье	побережье	NOUN	_	NOUN	3	obl	_	_
+8	с	с	ADP	_	ADP	9	case	_	_
+9	Апреля	апрель	PROPN	_	PROPN	3	obl	_	_
+10	по	по	ADP	_	ADP	11	case	_	_
+11	Июнь	июнь	PROPN	_	PROPN	9	nmod	_	_
+12	.	.	PUNCT	_	PUNCT	3	punct	_	_
+
+
+1	“	“	PUNCT	_	PUNCT	5	punct	_	_
+2	Её	Её	PART	_	PART	5	advmod	_	_
+3	голос	голос	NOUN	_	NOUN	5	nsubj	_	_
+4	буквально	буквально	ADV	_	ADV	5	advmod	_	_
+5	пронёсся	пронёсся	VERB	_	VERB	0	ROOT	_	_
+6	по	по	ADP	_	ADP	8	case	_	_
+7	всему	весь	DET	_	DET	8	det	_	_
+8	миру	мир	NOUN	_	NOUN	5	obl	_	_
+9	”	”	PUNCT	_	PUNCT	5	punct	_	_
+10	-	-	NOUN	_	NOUN	5	obl	_	_
+11	сказал	сказать	VERB	_	VERB	5	parataxis	_	_
+12	Лейв	лейв	PROPN	_	PROPN	11	nsubj	_	_
+13	.	.	PUNCT	_	PUNCT	5	punct	_	_
+
+
+1	Свидетель	свидетель	NOUN	_	NOUN	2	nsubj	_	_
+2	сказал	сказать	VERB	_	VERB	0	ROOT	_	_
+3	полиции	полиция	NOUN	_	NOUN	2	iobj	_	_
+4	,	,	PUNCT	_	PUNCT	7	punct	_	_
+5	что	что	SCONJ	_	SCONJ	7	mark	_	_
+6	жертва	жертва	NOUN	_	NOUN	7	nsubj	_	_
+7	напала	напасть	VERB	_	VERB	2	ccomp	_	_
+8	на	на	ADP	_	ADP	9	case	_	_
+9	подозреваемого	подозреваемого	NOUN	_	NOUN	7	obl	_	_
+10	в	в	ADP	_	ADP	11	case	_	_
+11	Апреле	апреле	PROPN	_	PROPN	7	obl	_	_
+12	.	.	PUNCT	_	PUNCT	2	punct	_	_
+
+
+1	Это	это	PRON	_	PRON	3	nsubj	_	_
+2	невероятно	невероятно	ADV	_	ADV	3	advmod	_	_
+3	очевидно	очевидный	ADJ	_	ADJ	0	ROOT	_	_
+4	,	,	PUNCT	_	PUNCT	10	punct	_	_
+5	когда	когда	SCONJ	_	SCONJ	10	mark	_	_
+6	имя	имя	NOUN	_	NOUN	10	nsubj	_	_
+7	знаменитости	знаменитость	NOUN	_	NOUN	6	nmod	_	_
+8	изначально	изначально	ADV	_	ADV	10	advmod	_	_
+9	довольно	довольно	ADV	_	ADV	10	advmod	_	_
+10	редкое	редкий	ADJ	_	ADJ	3	advcl	_	_
+11	.	.	PUNCT	_	PUNCT	3	punct	_	_
+
+
+1	Это	это	PRON	_	PRON	3	nsubj	_	_
+2	не	не	PART	_	PART	3	advmod	_	_
+3	остановило	остановить	VERB	_	VERB	0	ROOT	_	_
+4	инвесторов	инвестор	NOUN	_	NOUN	3	obj	_	_
+5	,	,	PUNCT	_	PUNCT	6	punct	_	_
+6	желающих	желать	VERB	_	VERB	4	acl	_	_
+7	вложить	вложить	VERB	_	VERB	6	xcomp	_	_
+8	свои	свой	DET	_	DET	9	det	_	_
+9	деньги	деньга	NOUN	_	NOUN	7	obj	_	_
+10	в	в	ADP	_	ADP	11	case	_	_
+11	фонды	фонд	NOUN	_	NOUN	7	obl	_	_
+12	.	.	PUNCT	_	PUNCT	3	punct	_	_
+
+
+1	Это	это	PRON	_	PRON	2	nsubj	_	_
+2	несоответствие	несоответствие	NOUN	_	NOUN	9	nsubj	_	_
+3	между	между	ADP	_	ADP	5	case	_	_
+4	экономическими	экономический	ADJ	_	ADJ	5	amod	_	_
+5	данными	данными	NOUN	_	NOUN	2	nmod	_	_
+6	и	и	CCONJ	_	CCONJ	8	cc	_	_
+7	политической	политический	ADJ	_	ADJ	8	amod	_	_
+8	риторикой	риторика	NOUN	_	NOUN	5	conj	_	_
+9	знакомо	знакомый	ADJ	_	ADJ	0	ROOT	_	_
+10	или	или	CCONJ	_	CCONJ	11	cc	_	_
+11	должно	должный	ADJ	_	ADJ	9	conj	_	_
+12	быть	быть	AUX	_	AUX	13	cop	_	_
+13	знакомым	знакомым	NOUN	_	NOUN	11	xcomp	_	_
+14	.	.	PUNCT	_	PUNCT	9	punct	_	_
+
+
+1	По	по	ADP	_	ADP	2	case	_	_
+2	оценкам	оценка	NOUN	_	NOUN	9	parataxis	_	_
+3	технико	технико	ADJ	_	ADJ	6	amod	_	_
+4	-	-	ADJ	_	ADJ	6	amod	_	_
+5	экономического	экономический	ADJ	_	ADJ	6	amod	_	_
+6	обоснования	обоснование	NOUN	_	NOUN	2	nmod	_	_
+7	,	,	PUNCT	_	PUNCT	2	punct	_	_
+8	пассажирам	пассажир	NOUN	_	NOUN	9	iobj	_	_
+9	потребуется	потребоваться	VERB	_	VERB	0	ROOT	_	_
+10	около	около	ADP	_	ADP	12	case	_	_
+11	четырёх	четыре	NUM	_	NUM	12	amod	_	_
+12	минут	минута	NOUN	_	NOUN	9	nsubj	_	_
+13	,	,	PUNCT	_	PUNCT	15	punct	_	_
+14	чтобы	чтобы	SCONJ	_	SCONJ	15	mark	_	_
+15	пересечь	пересечь	VERB	_	VERB	9	advcl	_	_
+16	реку	река	NOUN	_	NOUN	15	obj	_	_
+17	Потомка	потомка	PROPN	_	PROPN	16	appos	_	_
+18	на	на	ADP	_	ADP	19	case	_	_
+19	гондоле	гондоле	NOUN	_	NOUN	15	obl	_	_
+20	.	.	PUNCT	_	PUNCT	9	punct	_	_
+
+
+1	Он	он	PRON	_	PRON	2	nsubj	_	_
+2	собирал	собирать	VERB	_	VERB	0	ROOT	_	_
+3	карты	карта	NOUN	_	NOUN	2	obj	_	_
+4	и	и	CCONJ	_	CCONJ	5	cc	_	_
+5	обменивался	обмениваться	VERB	_	VERB	2	conj	_	_
+6	ими	ими	PRON	_	PRON	5	obl	_	_
+7	с	с	ADP	_	ADP	8	case	_	_
+8	парнями	парень	NOUN	_	NOUN	5	obl	_	_
+9	.	.	PUNCT	_	PUNCT	2	punct	_	_
+
+
+1	Это	это	DET	_	DET	2	det	_	_
+2	преступление	преступление	NOUN	_	NOUN	3	nsubj	_	_
+3	предусматривает	предусматривать	VERB	_	VERB	0	ROOT	_	_
+4	пять	пять	NUM	_	NUM	5	nummod:gov	_	_
+5	лет	год	NOUN	_	NOUN	3	obj	_	_
+6	лишения	лишение	NOUN	_	NOUN	5	nmod	_	_
+7	свободы	свобода	NOUN	_	NOUN	6	nmod	_	_
+8	.	.	PUNCT	_	PUNCT	3	punct	_	_
+
+
+1	Новость	новость	NOUN	_	NOUN	3	nsubj:pass	_	_
+2	была	быть	AUX	_	AUX	3	aux:pass	_	_
+3	распространена	распространить	VERB	_	VERB	0	ROOT	_	_
+4	в	в	ADP	_	ADP	6	case	_	_
+5	каждой	каждый	DET	_	DET	6	det	_	_
+6	деревне	деревня	NOUN	_	NOUN	3	obl	_	_
+7	в	в	ADP	_	ADP	8	case	_	_
+8	провинции	провинция	NOUN	_	NOUN	6	nmod	_	_
+9	.	.	PUNCT	_	PUNCT	3	punct	_	_
+
+
+1	Эти	этот	DET	_	DET	2	det	_	_
+2	мысли	мысль	NOUN	_	NOUN	5	nsubj	_	_
+3	всегда	всегда	ADV	_	ADV	5	advmod	_	_
+4	со	со	ADP	_	ADP	5	case	_	_
+5	мной	мной	PRON	_	PRON	0	ROOT	_	_
+6	в	в	ADP	_	ADP	7	case	_	_
+7	подсознании	подсознание	NOUN	_	NOUN	5	nmod	_	_
+8	.	.	PUNCT	_	PUNCT	5	punct	_	_
+
+
+1	Адам	адам	PROPN	_	PROPN	4	nsubj	_	_
+2	был	быть	AUX	_	AUX	4	cop	_	_
+3	бы	бы	AUX	_	AUX	4	aux	_	_
+4	перенесён	перенесён	VERB	_	VERB	0	ROOT	_	_
+5	в	в	ADP	_	ADP	6	case	_	_
+6	жизнь	жизнь	NOUN	_	NOUN	4	obl	_	_
+7	вечную	вечный	ADJ	_	ADJ	4	obj	_	_
+8	.	.	PUNCT	_	PUNCT	4	punct	_	_
+
+
+1	Оболочки	оболочки	NOUN	_	NOUN	2	obj	_	_
+2	сгнили	сгнить	VERB	_	VERB	0	ROOT	_	_
+3	и	и	CCONJ	_	CCONJ	4	cc	_	_
+4	должны	должный	ADJ	_	ADJ	2	conj	_	_
+5	были	были	AUX	_	AUX	7	aux:pass	_	_
+6	быть	быть	AUX	_	AUX	7	aux:pass	_	_
+7	заменены	заменить	VERB	_	VERB	4	xcomp	_	_
+8	.	.	PUNCT	_	PUNCT	2	punct	_	_
+
+
+1	Она	она	PRON	_	PRON	3	nsubj:pass	_	_
+2	была	быть	AUX	_	AUX	3	aux:pass	_	_
+3	возмущена	возмутить	VERB	_	VERB	0	ROOT	_	_
+4	тем	тем	PRON	_	PRON	3	obl	_	_
+5	,	,	PUNCT	_	PUNCT	9	punct	_	_
+6	что	что	SCONJ	_	SCONJ	9	mark	_	_
+7	эта	этот	DET	_	DET	8	det	_	_
+8	девчонка	девчонка	NOUN	_	NOUN	9	nsubj	_	_
+9	посмела	посметь	VERB	_	VERB	4	acl	_	_
+10	выставить	выставить	VERB	_	VERB	9	xcomp	_	_
+11	её	её	PRON	_	PRON	10	obj	_	_
+12	дурой	дура	NOUN	_	NOUN	10	iobj	_	_
+13	перед	перед	ADP	_	ADP	15	case	_	_
+14	всем	весь	DET	_	DET	15	det	_	_
+15	классом	класс	NOUN	_	NOUN	10	obl	_	_
+16	.	.	PUNCT	_	PUNCT	3	punct	_	_
+
+
+1	Убедительный	убедительный	ADJ	_	ADJ	2	amod	_	_
+2	оползень	оползень	NOUN	_	NOUN	11	nsubj	_	_
+3	,	,	PUNCT	_	PUNCT	6	punct	_	_
+4	который	который	PRON	_	PRON	6	obj	_	_
+5	он	он	PRON	_	PRON	6	nsubj	_	_
+6	имел	иметь	VERB	_	VERB	2	acl:relcl	_	_
+7	в	в	ADP	_	ADP	8	case	_	_
+8	коллегии	коллегия	NOUN	_	NOUN	6	obl	_	_
+9	выборщиков	выборщик	NOUN	_	NOUN	8	nmod	_	_
+10	,	,	PUNCT	_	PUNCT	2	punct	_	_
+11	затмил	затмить	VERB	_	VERB	0	ROOT	_	_
+12	незначительность	незначительность	NOUN	_	NOUN	11	obj	_	_
+13	победы	победа	NOUN	_	NOUN	12	nmod	_	_
+14	,	,	PUNCT	_	PUNCT	15	punct	_	_
+15	основанной	основать	VERB	_	VERB	13	acl	_	_
+16	всего	всего	PART	_	PART	19	advmod	_	_
+17	на	на	ADP	_	ADP	19	case	_	_
+18	43	43	NUM	_	NUM	19	nummod	_	_
+19	%	%	SYM	_	SYM	15	obl	_	_
+20	голосов	голос	NOUN	_	NOUN	19	nmod	_	_
+21	избирателей	избиратель	NOUN	_	NOUN	20	nmod	_	_
+22	.	.	PUNCT	_	PUNCT	11	punct	_	_
+
+
+1	Войска	войско	NOUN	_	NOUN	5	nsubj	_	_
+2	Соединенных	соединить	VERB	_	VERB	3	amod	_	_
+3	Штатов	штат	PROPN	_	PROPN	1	nmod	_	_
+4	теперь	теперь	ADV	_	ADV	5	advmod	_	_
+5	имеют	иметь	VERB	_	VERB	0	ROOT	_	_
+6	атропин	атропин	NOUN	_	NOUN	5	obj	_	_
+7	и	и	CCONJ	_	CCONJ	8	cc	_	_
+8	автоинъекторы	автоинъекторы	NOUN	_	NOUN	6	conj	_	_
+9	в	в	ADP	_	ADP	11	case	_	_
+10	своих	свой	DET	_	DET	11	det	_	_
+11	аптечках	аптечка	NOUN	_	NOUN	5	obl	_	_
+12	для	для	ADP	_	ADP	13	case	_	_
+13	использования	использование	NOUN	_	NOUN	5	obl	_	_
+14	в	в	ADP	_	ADP	15	case	_	_
+15	случае	случай	NOUN	_	NOUN	13	nmod	_	_
+16	отравления	отравление	NOUN	_	NOUN	15	nmod	_	_
+17	фосфорорганическими	фосфорорганический	ADJ	_	ADJ	21	amod	_	_
+18	нервно	нервно	ADJ	_	ADJ	21	amod	_	_
+19	-	-	ADJ	_	ADJ	21	amod	_	_
+20	паралитическими	паралитический	ADJ	_	ADJ	21	amod	_	_
+21	веществами	вещество	NOUN	_	NOUN	16	nmod	_	_
+22	.	.	PUNCT	_	PUNCT	5	punct	_	_
+
+
+1	он	он	PRON	_	PRON	2	nsubj	_	_
+2	может	мочь	VERB	_	VERB	0	ROOT	_	_
+3	добиться	добиться	VERB	_	VERB	2	xcomp	_	_
+4	хитростью	хитрость	NOUN	_	NOUN	3	obj	_	_
+5	в	в	ADP	_	ADP	7	case	_	_
+6	долгосрочной	долгосрочный	ADJ	_	ADJ	7	amod	_	_
+7	перспективе	перспектива	NOUN	_	NOUN	3	obl	_	_
+8	того	того	PRON	_	PRON	7	nmod	_	_
+9	,	,	PUNCT	_	PUNCT	13	punct	_	_
+10	чего	что	PRON	_	PRON	13	mark	_	_
+11	он	он	PRON	_	PRON	13	nsubj	_	_
+12	не	не	PART	_	PART	13	advmod	_	_
+13	может	мочь	VERB	_	VERB	8	acl	_	_
+14	сделать	сделать	VERB	_	VERB	13	xcomp	_	_
+15	с	с	ADP	_	ADP	17	case	_	_
+16	помощью	помощь	NOUN	_	NOUN	15	fixed	_	_
+17	силы	сила	NOUN	_	NOUN	14	obl	_	_
+18	и	и	CCONJ	_	CCONJ	19	cc	_	_
+19	насилия	насилие	NOUN	_	NOUN	17	conj	_	_
+20	в	в	ADP	_	ADP	22	case	_	_
+21	краткосрочной	краткосрочный	ADJ	_	ADJ	22	amod	_	_
+22	перспективе	перспектива	NOUN	_	NOUN	14	obl	_	_
+23	.	.	PUNCT	_	PUNCT	2	punct	_	_
+
+
+1	было	было	AUX	_	AUX	2	aux:pass	_	_
+2	сказано	сказать	VERB	_	VERB	0	ROOT	_	_
+3	,	,	PUNCT	_	PUNCT	12	punct	_	_
+4	что	что	SCONJ	_	SCONJ	12	mark	_	_
+5	только	только	PART	_	PART	6	advmod	_	_
+6	иерархическое	иерархический	ADJ	_	ADJ	7	amod	_	_
+7	общество	общество	NOUN	_	NOUN	12	nsubj	_	_
+8	с	с	ADP	_	ADP	10	case	_	_
+9	праздным	праздный	ADJ	_	ADJ	10	amod	_	_
+10	классом	класс	NOUN	_	NOUN	7	nmod	_	_
+11	наверху	наверху	ADV	_	ADV	12	advmod	_	_
+12	может	мочь	VERB	_	VERB	2	ccomp	_	_
+13	создавать	создавать	VERB	_	VERB	12	xcomp	_	_
+14	произведения	произведение	NOUN	_	NOUN	13	obj	_	_
+15	искусства	искусство	NOUN	_	NOUN	14	nmod	_	_
+16	.	.	PUNCT	_	PUNCT	2	punct	_	_
+
+
+1	его	он	DET	_	DET	3	det	_	_
+2	остроумное	остроумный	ADJ	_	ADJ	3	amod	_	_
+3	объяснение	объяснение	NOUN	_	NOUN	0	ROOT	_	_
+4	,	,	PUNCT	_	PUNCT	8	punct	_	_
+5	что	что	SCONJ	_	SCONJ	8	mark	_	_
+6	он	он	PRON	_	PRON	8	nsubj	_	_
+7	не	не	PART	_	PART	8	advmod	_	_
+8	сжег	сжечь	VERB	_	VERB	3	acl	_	_
+9	бы	бы	AUX	_	AUX	8	aux	_	_
+10	церковь	церковь	NOUN	_	NOUN	8	obj	_	_
+11	,	,	PUNCT	_	PUNCT	15	punct	_	_
+12	если	если	SCONJ	_	SCONJ	15	mark	_	_
+13	бы	бы	AUX	_	AUX	15	aux	_	_
+14	не	не	PART	_	PART	15	advmod	_	_
+15	думал	думать	VERB	_	VERB	8	advcl	_	_
+16	,	,	PUNCT	_	PUNCT	20	punct	_	_
+17	что	что	SCONJ	_	SCONJ	20	mark	_	_
+18	в	в	ADP	_	ADP	19	case	_	_
+19	ней	ней	PRON	_	PRON	20	obl	_	_
+20	находится	находиться	VERB	_	VERB	15	ccomp	_	_
+21	епископ	епископ	NOUN	_	NOUN	20	nsubj	_	_
+22	.	.	PUNCT	_	PUNCT	3	punct	_	_
+
+
