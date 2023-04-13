@@ -1,0 +1,324 @@
+1	Kuka	kuka	PRON	_	Pron	0	ROOT	_	_
+2	ne	se	PRON	_	Pron	1	nsubj:cop	_	_
+3	on	olla	AUX	_	V	1	cop	_	_
+4	?	?	PUNCT	_	Punct	1	punct	_	_
+
+
+1	Pieni	pieni	ADJ	_	A	2	amod	_	_
+2	kaupunki	kaupunki	NOUN	_	N	0	ROOT	_	_
+3	,	,	PUNCT	_	Punct	4	punct	_	_
+4	jossa	joka	PRON	_	Pron	2	acl:relcl	_	_
+5	on	olla	AUX	_	V	4	cop	_	_
+6	kaksi	kaksi	NUM	_	Num	7	nummod	_	_
+7	minareettia	minareetti	NOUN	_	N	4	nsubj:cop	_	_
+8	,	,	PUNCT	_	Punct	9	punct	_	_
+9	liukuu	liukua	VERB	_	V	4	conj	_	_
+10	ohitse	ohitse	ADV	_	Adv	9	advmod	_	_
+11	.	.	PUNCT	_	Punct	2	punct	_	_
+
+
+1	Olin	olla	AUX	_	V	3	cop	_	_
+2	vain	vain	ADV	_	Adv	3	advmod	_	_
+3	poika	poika	NOUN	_	N	0	ROOT	_	_
+4	,	,	PUNCT	_	Punct	5	punct	_	_
+5	jolla	joka	PRON	_	Pron	3	acl:relcl	_	_
+6	oli	olla	AUX	_	V	5	cop:own	_	_
+7	mutaiset	mutainen	ADJ	_	A	8	amod	_	_
+8	kengät	kenkä	NOUN	_	N	5	nsubj:cop	_	_
+9	.	.	PUNCT	_	Punct	3	punct	_	_
+
+
+1	Shenzhenin	Shenzhen	PROPN	_	N	2	nmod:poss	_	_
+2	liikennepoliisi	liikennepoliistä	NOUN	_	N	4	nsubj	_	_
+3	on	olla	AUX	_	V	4	aux	_	_
+4	valinnut	valita	VERB	_	V	0	ROOT	_	_
+5	epätavallisia	epätavallinen	ADJ	_	A	6	amod	_	_
+6	rangaistuksia	rangaistus	NOUN	_	N	4	obj	_	_
+7	aiemmin	aiemmin	ADV	_	Adv	4	advmod	_	_
+8	.	.	PUNCT	_	Punct	4	punct	_	_
+
+
+1	Tulivuorien	Tulivuorien	NOUN	_	N	2	nmod:poss	_	_
+2	tutkimus	tutkimus	NOUN	_	N	5	nsubj:cop	_	_
+3	on	olla	AUX	_	V	5	cop	_	_
+4	nimeltään	nimi	NOUN	_	N	5	nmod	_	_
+5	vulkanologia	vulkanologia	NOUN	_	N	0	ROOT	_	_
+6	,	,	PUNCT	_	Punct	8	punct	_	_
+7	joskus	joskus	ADV	_	Adv	8	advmod	_	_
+8	kirjoitetaan	kirjoittaa	VERB	_	V	5	conj	_	_
+9	myös	myös	ADV	_	Adv	10	advmod	_	_
+10	muodossa	muoto	NOUN	_	N	8	obl	_	_
+11	volkanologia	volkanologia	NOUN	_	N	8	obj	_	_
+12	.	.	PUNCT	_	Punct	5	punct	_	_
+
+
+1	Se	se	PRON	_	Pron	7	nsubj:cop	_	_
+2	toteutettiin	toteutetti	VERB	_	N	1	nmod	_	_
+3	aivan	aivan	ADV	_	Adv	4	advmod	_	_
+4	Meksikon	Meksiko	PROPN	_	N	5	nmod:poss	_	_
+5	rannikon	rannikko	NOUN	_	N	7	nmod:poss	_	_
+6	lähellä	lähellä	ADP	_	Adp	7	case	_	_
+7	huhtikuusta	huhtikuusta	NOUN	_	N	0	ROOT	_	_
+8	kesäkuuhun	kesäkuu	NOUN	_	N	7	nmod	_	_
+9	.	.	PUNCT	_	Punct	7	punct	_	_
+
+
+1	"	"	PUNCT	_	Punct	4	punct	_	_
+2	Hänen	hän	PRON	_	Pron	3	nmod:poss	_	_
+3	äänensä	ääni	NOUN	_	N	4	nsubj	_	_
+4	kiersi	kiertää	VERB	_	V	0	ROOT	_	_
+5	kirjaimellisesti	kirjaimellisesti	ADV	_	Adv	4	advmod	_	_
+6	maailman	maailma	NOUN	_	N	4	obl	_	_
+7	ympäri	ympäri	ADP	_	Adp	6	case	_	_
+8	"	"	PUNCT	_	Punct	4	punct	_	_
+9	,	,	PUNCT	_	Punct	10	punct	_	_
+10	sanoi	sanoa	VERB	_	V	4	parataxis	_	_
+11	Leive	Leive	PROPN	_	N	10	nsubj	_	_
+12	.	.	PUNCT	_	Punct	4	punct	_	_
+
+
+1	Silmäkertomuksen	silmäkertomus	NOUN	_	N	4	obl	_	_
+2	mukaan	mukaan	ADP	_	Adp	1	case	_	_
+3	todistaja	todistaja	NOUN	_	N	4	nsubj	_	_
+4	kertoi	kertoa	VERB	_	V	0	ROOT	_	_
+5	poliisille	poliisi	NOUN	_	N	4	obl	_	_
+6	,	,	PUNCT	_	Punct	10	punct	_	_
+7	että	että	SCONJ	_	C	10	mark	_	_
+8	uhri	uhri	NOUN	_	N	10	nsubj	_	_
+9	oli	olla	AUX	_	V	10	aux	_	_
+10	hyökännyt	hyökänä	VERB	_	V	4	ccomp	_	_
+11	epäiltyä	epäilty	NOUN	_	V	10	xcomp	_	_
+12	vastaan	vastaan	ADV	_	Adv	11	compound:prt	_	_
+13	huhtikuussa	huhtikuu	NOUN	_	N	11	obl	_	_
+14	.	.	PUNCT	_	Punct	4	punct	_	_
+
+
+1	Se	se	PRON	_	Pron	4	nsubj:cop	_	_
+2	on	olla	AUX	_	V	4	cop	_	_
+3	kaikkein	kaikkein	ADV	_	Adv	4	advmod	_	_
+4	ilmeisintä	ilmeisin	ADJ	_	A	0	ROOT	_	_
+5	,	,	PUNCT	_	Punct	13	punct	_	_
+6	kun	kun	SCONJ	_	C	13	mark	_	_
+7	julkkiksen	julkkiknen	NOUN	_	N	8	nmod:poss	_	_
+8	nimi	nimi	NOUN	_	N	13	nsubj:cop	_	_
+9	on	olla	AUX	_	V	13	cop	_	_
+10	alun	alun	ADV	_	Adv	13	advmod	_	_
+11	perin	perin	ADV	_	Adv	10	fixed	_	_
+12	melko	melko	ADV	_	Adv	13	advmod	_	_
+13	harvinainen	harvinainen	ADJ	_	A	4	advcl	_	_
+14	.	.	PUNCT	_	Punct	4	punct	_	_
+
+
+1	Tämä	tämä	PRON	_	Pron	4	nsubj	_	_
+2	ei	ei	AUX	_	V	4	aux	_	_
+3	ole	olla	AUX	_	V	4	aux	_	_
+4	estänyt	estää	VERB	_	V	0	ROOT	_	_
+5	sijoittajia	sijoittaja	NOUN	_	N	4	obj	_	_
+6	ryntäämästä	ryntäämä	NOUN	_	N	5	nmod	_	_
+7	panostamaan	panostama	VERB	_	A	8	amod	_	_
+8	rahojaan	rahojas	NOUN	_	N	9	nmod:poss	_	_
+9	rahastoihin	rahasta	NOUN	_	N	6	nmod	_	_
+10	.	.	PUNCT	_	Punct	4	punct	_	_
+
+
+1	Tämä	tämä	PRON	_	Pron	2	det	_	_
+2	epäjohdonmukaisuus	epäjohdonmukaisuus	NOUN	_	N	9	nsubj:cop	_	_
+3	taloustietojen	taloustieto	NOUN	_	N	9	obl	_	_
+4	ja	ja	CCONJ	_	C	6	cc	_	_
+5	poliittisen	poliittinen	ADJ	_	A	6	amod	_	_
+6	retoriikan	retoriikka	NOUN	_	N	3	conj	_	_
+7	välillä	välillä	ADP	_	Adp	3	case	_	_
+8	on	olla	AUX	_	V	9	cop	_	_
+9	tuttua	tuttu	ADJ	_	A	0	ROOT	_	_
+10	,	,	PUNCT	_	Punct	14	punct	_	_
+11	tai	tai	CCONJ	_	C	14	cc	_	_
+12	sen	se	PRON	_	Pron	14	nsubj	_	_
+13	pitäisi	pitää	AUX	_	V	14	aux	_	_
+14	olla	olla	AUX	_	V	9	conj	_	_
+15	.	.	PUNCT	_	Punct	9	punct	_	_
+
+
+1	Mahdollisuustutkimuksen	Mahdollisuustutkimuknen	PROPN	_	N	4	obl	_	_
+2	mukaan	mukaan	ADP	_	Adp	1	case	_	_
+3	matkustajien	matkustaja	NOUN	_	N	4	obj	_	_
+4	kestäisi	kestäisi	VERB	_	V	0	ROOT	_	_
+5	noin	noin	ADV	_	Adv	6	advmod	_	_
+6	neljä	neljä	NUM	_	Num	7	nummod	_	_
+7	minuuttia	minuutti	NOUN	_	N	4	nsubj	_	_
+8	ylittää	ylittää	VERB	_	V	4	xcomp	_	_
+9	Potomac-joen	Potomacjoki	NOUN	_	N	10	nmod:poss	_	_
+10	gondolalla	gondolalla	NOUN	_	N	8	obl	_	_
+11	.	.	PUNCT	_	Punct	4	punct	_	_
+
+
+1	Hän	hän	PRON	_	Pron	2	nsubj	_	_
+2	keräsi	kerätä	VERB	_	V	0	ROOT	_	_
+3	kortteja	kortti	NOUN	_	N	2	obj	_	_
+4	ja	ja	CCONJ	_	C	5	cc	_	_
+5	vaihtoi	vaihtaa	VERB	_	V	2	conj	_	_
+6	niitä	se	PRON	_	Pron	5	obj	_	_
+7	muiden	muu	PRON	_	Pron	8	det	_	_
+8	poikien	poiki	NOUN	_	N	5	obl	_	_
+9	kanssa	kanssa	ADP	_	Adp	8	case	_	_
+10	.	.	PUNCT	_	Punct	2	punct	_	_
+
+
+1	Tämä	tämä	PRON	_	Pron	2	det	_	_
+2	rikos	rikos	NOUN	_	N	3	nsubj	_	_
+3	johtaa	johtaa	VERB	_	V	0	ROOT	_	_
+4	viiden	viisi	NUM	_	Num	5	nummod	_	_
+5	vuoden	vuosi	NOUN	_	N	6	nmod:poss	_	_
+6	vankeusrangaistukseen	vankeusrangaistus	NOUN	_	N	3	obl	_	_
+7	.	.	PUNCT	_	Punct	3	punct	_	_
+
+
+1	Uutinen	Uutinen	PROPN	_	N	2	obj	_	_
+2	välitettiin	välittää	VERB	_	V	0	ROOT	_	_
+3	jokaiseen	jokainen	PRON	_	Pron	5	det	_	_
+4	kylään	kylä	ADJ	_	N	5	nmod:poss	_	_
+5	maakunnassa	maakunta	NOUN	_	N	2	obl	_	_
+6	.	.	PUNCT	_	Punct	2	punct	_	_
+
+
+1	Kannan	kannan	NOUN	_	N	4	obj	_	_
+2	näitä	tämä	PRON	_	Pron	3	det	_	_
+3	ajatuksia	ajatus	NOUN	_	N	4	obj	_	_
+4	takaraivossa	takaraivossa	VERB	_	V	0	ROOT	_	_
+5	.	.	PUNCT	_	Punct	4	punct	_	_
+
+
+1	Adam	Adam	PROPN	_	N	3	nsubj	_	_
+2	olisi	olla	AUX	_	V	3	aux	_	_
+3	kantanut	kantaa	VERB	_	V	0	ROOT	_	_
+4	elämän	elämä	NOUN	_	N	5	nsubj	_	_
+5	iankaikkisuuteen	iankaikkisuuteen	VERB	_	V	3	advcl	_	_
+6	.	.	PUNCT	_	Punct	3	punct	_	_
+
+
+1	Kuoret	kuoret	NOUN	_	N	3	nsubj	_	_
+2	olivat	olla	AUX	_	V	3	aux	_	_
+3	mätäneet	mätäa	VERB	_	V	0	ROOT	_	_
+4	pois	pois	ADV	_	Adv	3	advmod	_	_
+5	ja	ja	CCONJ	_	C	8	cc	_	_
+6	ne	se	PRON	_	Pron	8	obj	_	_
+7	oli	olla	AUX	_	V	8	aux:pass	_	_
+8	korvattava	korvata	VERB	_	V	3	conj	_	_
+9	.	.	PUNCT	_	Punct	3	punct	_	_
+
+
+1	Hän	hän	PRON	_	Pron	4	nsubj:cop	_	_
+2	oli	olla	AUX	_	V	4	cop	_	_
+3	raivoissaan	raivoissaan	ADV	_	Adv	4	advmod	_	_
+4	siitä	se	PRON	_	Pron	0	ROOT	_	_
+5	,	,	PUNCT	_	Punct	9	punct	_	_
+6	että	että	SCONJ	_	C	9	mark	_	_
+7	tämä	tämä	PRON	_	Pron	8	det	_	_
+8	tyttö	tyttö	NOUN	_	N	9	nsubj	_	_
+9	rohkenee	rohketä	VERB	_	V	4	ccomp	_	_
+10	nolata	nolata	VERB	_	V	9	xcomp	_	_
+11	hänet	hän	PRON	_	Pron	12	det	_	_
+12	luokan	luokka	NOUN	_	N	10	obl	_	_
+13	edessä	edessä	ADP	_	Adp	12	case	_	_
+14	.	.	PUNCT	_	Punct	4	punct	_	_
+
+
+1	Äänivyöry	Äänivyöry	NOUN	_	N	8	nsubj	_	_
+2	,	,	PUNCT	_	Punct	5	punct	_	_
+3	jonka	joka	PRON	_	Pron	5	obj	_	_
+4	hän	hän	PRON	_	Pron	5	nsubj	_	_
+5	sai	saada	VERB	_	V	1	acl:relcl	_	_
+6	valitsijamiehistössä	valitsijamiehistö	ADV	_	Adv	5	obl	_	_
+7	,	,	PUNCT	_	Punct	8	punct	_	_
+8	peitti	peittää	VERB	_	V	0	ROOT	_	_
+9	alleen	alle	ADV	_	Adv	8	advmod	_	_
+10	sen	se	PRON	_	Pron	8	obj	_	_
+11	,	,	PUNCT	_	Punct	14	punct	_	_
+12	että	että	SCONJ	_	C	14	mark	_	_
+13	voitto	voitto	NOUN	_	N	14	nsubj	_	_
+14	perustui	perustua	VERB	_	V	10	ccomp	_	_
+15	vain	vain	ADV	_	Adv	16	advmod	_	_
+16	43	43	NUM	_	Num	17	nummod	_	_
+17	prosenttiin	prosentti	NOUN	_	N	14	obl	_	_
+18	kansanäänestyksessä	kansanäänestys	NOUN	_	N	19	obl	_	_
+19	annetuista	annetuista	VERB	_	V	20	acl	_	_
+20	äänistä	ääni	NOUN	_	N	17	nmod	_	_
+21	.	.	PUNCT	_	Punct	8	punct	_	_
+
+
+1	Yhdysvaltain	Yhdysvallat	PROPN	_	N	2	nmod:poss	_	_
+2	joukot	joukko	NOUN	_	N	3	nsubj	_	_
+3	kantavat	kantaa	VERB	_	V	0	ROOT	_	_
+4	nyt	nyt	ADV	_	Adv	5	advmod	_	_
+5	atropiinia	atropiini	NOUN	_	N	3	obj	_	_
+6	ja	ja	CCONJ	_	C	7	cc	_	_
+7	autoinjektoreita	autoinjektore	NOUN	_	N	5	conj	_	_
+8	ensiapupakkauksissaan	ensiapupakkauksissa	NOUN	_	N	9	obl	_	_
+9	käytettäväksi	käyttää	VERB	_	V	10	acl	_	_
+10	tapauksissa	tapaus	NOUN	_	N	3	obl	_	_
+11	,	,	PUNCT	_	Punct	13	punct	_	_
+12	joissa	joka	PRON	_	Pron	13	obl	_	_
+13	esiintyy	esiintyä	VERB	_	V	10	acl:relcl	_	_
+14	organofosfaattihermomyrkkyä	organofosfaattihermomyrkkyä	NOUN	_	N	13	nsubj	_	_
+15	.	.	PUNCT	_	Punct	3	punct	_	_
+
+
+1	Hän	hän	PRON	_	Pron	3	nsubj	_	_
+2	saattaa	saattaa	AUX	_	V	3	aux	_	_
+3	saavuttaa	saavuttaa	VERB	_	V	0	ROOT	_	_
+4	tavoitteensa	tavoite	NOUN	_	N	3	obj	_	_
+5	keinoin	keino	NOUN	_	N	3	obl	_	_
+6	,	,	PUNCT	_	Punct	9	punct	_	_
+7	jos	jos	SCONJ	_	C	9	mark	_	_
+8	ei	ei	AUX	_	V	9	aux	_	_
+9	väkivallalla	väkivallalla	VERB	_	A	3	advcl	_	_
+10	lyhyellä	lyhye	ADJ	_	A	11	amod	_	_
+11	aikavälillä	aikaväli	NOUN	_	N	9	obl	_	_
+12	,	,	PUNCT	_	Punct	16	punct	_	_
+13	niin	niin	ADV	_	Adv	16	advmod	_	_
+14	pitkällä	pitkä	ADJ	_	A	16	amod	_	_
+15	aikavälillä	aikaväli	ADJ	_	A	16	amod	_	_
+16	keinoilla	keinoilla	NOUN	_	N	9	advcl	_	_
+17	.	.	PUNCT	_	Punct	3	punct	_	_
+
+
+1	On	olla	AUX	_	V	2	aux:pass	_	_
+2	sanottu	sanoa	VERB	_	V	0	ROOT	_	_
+3	,	,	PUNCT	_	Punct	7	punct	_	_
+4	että	että	SCONJ	_	C	7	mark	_	_
+5	vain	vain	ADV	_	Adv	7	advmod	_	_
+6	hierarkkinen	hierarkkinen	ADJ	_	A	7	amod	_	_
+7	yhteiskunta	yhteiskunta	NOUN	_	N	15	nsubj	_	_
+8	,	,	PUNCT	_	Punct	10	punct	_	_
+9	jossa	joka	PRON	_	Pron	10	det	_	_
+10	vapaa-aikaan	vapaa-aikaan	NOUN	_	N	7	acl:relcl	_	_
+11	on	olla	AUX	_	V	10	cop	_	_
+12	varaa	vara	NOUN	_	N	10	nsubj:cop	_	_
+13	,	,	PUNCT	_	Punct	10	punct	_	_
+14	voi	voida	AUX	_	V	15	aux	_	_
+15	tuottaa	tuottaa	VERB	_	V	2	xcomp:ds	_	_
+16	taideteoksia	taideteos	NOUN	_	N	15	obj	_	_
+17	.	.	PUNCT	_	Punct	15	punct	_	_
+
+
+1	Hänen	hän	PRON	_	Pron	3	nmod:poss	_	_
+2	suorasanainen	suorasanainen	ADJ	_	A	3	amod	_	_
+3	selityksensä	selityksensä	NOUN	_	N	4	nsubj	_	_
+4	oli	olla	AUX	_	V	0	ROOT	_	_
+5	,	,	PUNCT	_	Punct	10	punct	_	_
+6	että	että	SCONJ	_	C	10	mark	_	_
+7	hän	hän	PRON	_	Pron	10	nsubj	_	_
+8	ei	ei	AUX	_	V	10	aux	_	_
+9	olisi	olla	AUX	_	V	10	aux	_	_
+10	polttanut	polttanut	VERB	_	V	4	dep	_	_
+11	kirkkoa	kirkko	NOUN	_	N	10	obj	_	_
+12	,	,	PUNCT	_	Punct	16	punct	_	_
+13	jos	jos	SCONJ	_	C	16	mark	_	_
+14	hän	hän	PRON	_	Pron	16	nsubj	_	_
+15	olisi	olla	AUX	_	V	16	aux	_	_
+16	tiennyt	tietää	VERB	_	V	10	advcl	_	_
+17	piispan	piispa	NOUN	_	N	19	nsubj:cop	_	_
+18	olevan	olla	AUX	_	V	19	cop	_	_
+19	siellä	siellä	ADV	_	Adv	16	ccomp	_	_
+20	.	.	PUNCT	_	Punct	4	punct	_	_
+
+
