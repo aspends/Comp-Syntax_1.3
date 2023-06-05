@@ -31,7 +31,7 @@
 2	's	's	PART	POS	_	1	case	_	_
 3	traffic	traffic	NOUN	NN		4	compound	_	
 4	police	police	NOUN	NNS		6	nsubj	_	
-5	have	have	AUX	VBP		6	aux	_	TokenRange=26:30
+5	have	have	AUX	VBP		6	aux	_	
 6	opted	opt	VERB	VBN		0	root	_	
 7	for	for	ADP	IN	_	9	case	_	
 8	unconventional	unconventional	ADJ	JJ  9	amod	_	
@@ -42,7 +42,7 @@
 
 1	The	the	DET	DT	2	det	_	
 2	study	study	NOUN	NN		6	nsubj:pass	_	
-3	of	of	ADP	IN	_	4	case	_	TokenRange=10:12
+3	of	of	ADP	IN	_	4	case	_	
 4	volcanoes	volcanoe	NOUN	NNS		2	nmod	_	
 5	is	be	AUX	VBZ		6	aux:pass	_	
 6	called	call	VERB	VBN	0	root	_	
@@ -54,7 +54,7 @@
 12	.	.	PUNCT	.	_	6	punct	_	
 
 1	It	it	PRON	PRP		3	nsubj:pass	_	
-2	was	be	AUX	VBD		3	aux:pass	_	TokenRange=3:6
+2	was	be	AUX	VBD		3	aux:pass	_	
 3	conducted	conduct	VERB	VBN		0	root	_	
 4	just	just	ADV	RB	_	8	advmod	_	
 5	off	off	ADP	IN	_	8	case	_	
